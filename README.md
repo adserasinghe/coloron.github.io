@@ -1,2 +1,5 @@
 # coloron
-that is the simple html game project
+<center><p>Scan to play the Game</p></center>
+<img src="./img/coloron.png" width="400" 
+     height="400"></img>
+
